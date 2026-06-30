@@ -1,3 +1,7 @@
+import os
+
+print(os.getcwd())
+print(os.listdir())
 # IMPORT LIBRARIES
 
 import pandas as pd
